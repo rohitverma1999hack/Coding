@@ -23,6 +23,6 @@ int main(){
 	int n=5;
 	int arr[] = {40,20,30,10,30};
 	int i=1;
-	int j=n-1;
-	cout<<MCM(arr,i,j)<<endl;
+	int k=n-1;
+	cout<<MCM(arr,i,k)<<endl;
 }
